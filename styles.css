@@ -1,0 +1,131 @@
+body {
+  background-color: rgb(89, 94, 139);
+}
+
+h2 {
+  color: rgb(150, 223, 41);
+}
+
+
+.info {
+  color: rgb(150, 223, 41);
+  font-style: italic;
+  font-size: 24px;
+}
+
+.myPhoto {
+  float: right;
+  border: 5px solid darkviolet;
+  border-radius: 0px;
+  padding: 12px;
+  margin-left: 0.5em;
+
+}
+
+.EssayTitle{
+  color: rgb(150, 223, 41);
+font-size: 27px;
+text-align: center;
+
+}
+.Essays{
+  font-size: 22px;
+  color: black;
+}
+.purpose{
+    color: rgb(150, 223, 41);
+  text-align: center;
+}
+
+.photo {
+  float: left;
+  border: 5px solid darkviolet;
+  border-radius: 0px;
+  padding: 12px;
+  margin-right: 0.5em;
+
+}
+
+.theme {
+  font-size: 26px;
+}
+
+a:link {
+  color: rgb(7, 44, 44);
+  font-size: 25px;
+  text-decoration: none;
+  border-radius: 1px;
+  border: 2px;
+}
+
+a:hover{
+  font-size: 28px;
+  text-decoration: none;
+  border-radius: 1px;
+  border: 2px;
+
+}
+a:visited{
+  color: black;
+  font-size: 25px;
+  text-decoration: none;
+  border-radius: 1px;
+  border: 2px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: 30px;
+
+}
+
+li{
+  margin-left: 2px;
+  margin-right: 2px ;
+  display: inline;
+  border-right: 2px dotted black;
+}
+
+
+
+li:last-child {
+  border-right: none;
+}
+
+p:hover {
+  background-color: darkslateblue;
+    color: rgb(150, 223, 41);
+}
+
+.song {
+  float: right;
+}
+
+.menu {
+  border-width: 2px 4px;
+  border-radius: 40px;
+  border-style: inset;
+}
+
+.passage {
+  color: lavender;
+  font-size: 24px ;
+
+}
+
+.greenyellow {
+  color: rgb(150, 223, 41);
+}
+
+.text {
+  color:lavender;
+  font-size:24px;
+
+}
+
+.text:hover{
+  color: rgb(150, 223, 41);
+  background-color: darkslateblue;
+}
